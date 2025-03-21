@@ -1,6 +1,6 @@
 # Apprentissage de Java
 
-Ce répertoire reflète mon parcours d'apprentissage du langage Java. Il contient des exercices, des projets et des notes qui montrent ma progression, de la maîtrise des bases à l'implémentation de projets plus complexes.
+Ce répertoire reflète mon parcours d'apprentissage du langage Java a objis. Il contient des exercices, des projets et des notes qui montrent ma progression, de la maîtrise des bases à l'implémentation de projets plus complexes.
 
 ## Objectifs
 
@@ -18,8 +18,8 @@ Ce répertoire reflète mon parcours d'apprentissage du langage Java. Il contien
 ## Comment utiliser ce dépôt
 
 1. Clonez le dépôt :
-   ```bash
-   git clone git@github.com:IMANA47/Apprendre-java.git
+   ```
+   git clone git@github.com:IMANA47/ApprendreLeJava.git 
 
 ## Technologies utilisées
 - **UBUNTU Ubuntu 24.04.2 LTS comme système d'exploitaion OS**
